@@ -23,6 +23,8 @@ const PharmacyList = ({ selectedItem, pharmacys }) => {
               총 예측 수량 : {selectedItem.prediction_qtt}
             </strong>
             <br />
+            <br />
+            <br />
             <table className="pharmacy-table">
               <thead>
                 <tr>
