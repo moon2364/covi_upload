@@ -24,6 +24,7 @@ html, body {
   align-items: center; /* 세로 중앙 */
   box-sizing: border-box; /* 패딩 포함 */
   min-width: 1400px;
+  min-height: 1000px;
 }
 
 a {
